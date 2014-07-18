@@ -1,0 +1,9 @@
+if(1){
+    b = 1
+}
+if(0){
+    a = 2
+}
+cat = 1
+dog = 2
+frog = cat+dog

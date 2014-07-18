@@ -1,0 +1,10 @@
+ 1889  2014-07-17 22:45:55 javac -Xlint:unchecked ExprLexer.java ExprParser.java Eval.java Test.java
+ 1890  2014-07-17 22:45:59 java Test < input 
+ 1891  2014-07-17 22:50:25 a3 Expr.g
+ 1892  2014-07-17 22:50:30 a3 Eval.g
+ 1893  2014-07-17 22:50:34 javac -Xlint:unchecked ExprLexer.java ExprParser.java Eval.java Test.java
+ 1894  2014-07-17 22:50:38 java Test < input 
+ 1895  2014-07-17 22:52:22 java Test < input 
+ 1896  2014-07-17 22:53:31 a3 Eval.g
+ 1897  2014-07-17 22:53:36 javac -Xlint:unchecked ExprLexer.java ExprParser.java Eval.java Test.java
+ 1898  2014-07-17 22:54:02 history | tail -10 > tt
